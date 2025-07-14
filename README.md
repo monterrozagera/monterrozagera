@@ -58,17 +58,6 @@ This repository (and associated projects) showcases real-world and simulated app
 
 ---
 
-## Learning & Lab Focus
-
-This repository is constantly updated with:
-
-- CTF challenges (HackTheBox, TryHackMe, etc.)
-- Memory forensics walkthroughs
-- AWS pentesting checklists
-- Malware sample dissection writeups
-
----
-
 ## Reach Out
 
 Feel free to reach out if you’d like to collaborate on:
