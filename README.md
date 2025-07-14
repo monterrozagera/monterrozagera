@@ -5,31 +5,31 @@
 
 ---
 
-## 👋 Welcome
+## Welcome!
 
 This repository (and associated projects) showcases real-world and simulated applications in:
 
-- ☁️ **Cloud Security**: Hardening AWS environments, serverless security, IAM auditing, and policy enforcement.
-- 🐛 **Malware Analysis**: Static and dynamic analysis of malicious code, obfuscated JavaScript deconstruction, and sandboxing.
-- 🧠 **Digital Forensics**: Memory forensics, log correlation, reverse engineering, and traceback investigations.
+- **Cloud Security**: Hardening AWS environments, serverless security, IAM auditing, and policy enforcement.
+- **Malware Analysis**: Static and dynamic analysis of malicious code, obfuscated JavaScript deconstruction, and sandboxing.
+- **Digital Forensics**: Memory forensics, log correlation, reverse engineering, and traceback investigations.
 
 ---
 
-## 🔒 Key Areas of Focus
+## Key Areas of Focus
 
-### ☁️ Cloud Security
+### Cloud Security
 - AWS IAM & Lambda least-privilege policies
 - S3 bucket misconfiguration scanning
 - GuardDuty, CloudTrail, and Config integration
 - Terraform/IaC security baselines
 
-### 🐞 Malware Analysis
+### Malware Analysis
 - JavaScript and Powershell deobfuscation
 - C2 traffic decoding and packet analysis
 - Custom Python tools for static/dynamic inspection
 - Analysis of web-based attacks (XSS, skimming)
 
-### 🧬 Digital Forensics
+### Digital Forensics
 - Memory dump analysis (Volatility, Rekall)
 - Windows & Linux incident triage
 - Log analysis pipelines (ELK, Loki, Sigma)
@@ -37,7 +37,7 @@ This repository (and associated projects) showcases real-world and simulated app
 
 ---
 
-## 🧪 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -46,7 +46,7 @@ This repository (and associated projects) showcases real-world and simulated app
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
@@ -58,18 +58,18 @@ This repository (and associated projects) showcases real-world and simulated app
 
 ---
 
-## 🧠 Learning & Lab Focus
+## Learning & Lab Focus
 
 This repository is constantly updated with:
 
-- 🧩 CTF challenges (HackTheBox, TryHackMe, etc.)
-- 🧬 Memory forensics walkthroughs
-- 🌩️ AWS pentesting checklists
-- 📦 Malware sample dissection writeups
+- CTF challenges (HackTheBox, TryHackMe, etc.)
+- Memory forensics walkthroughs
+- AWS pentesting checklists
+- Malware sample dissection writeups
 
 ---
 
-## 📫 Reach Out
+## Reach Out
 
 Feel free to reach out if you’d like to collaborate on:
 
@@ -77,7 +77,7 @@ Feel free to reach out if you’d like to collaborate on:
 - Threat simulation environments  
 - Cloud threat detection and response  
 
-> 💬 You can find me on [LinkedIn](https://www.linkedin.com/in/gerardo-monterroza-8208aa192) or email me at `monterrozagerardo@icloud.com`.
+> You can find me on [LinkedIn](https://www.linkedin.com/in/gerardo-monterroza-8208aa192) or email me at `monterrozagerardo@icloud.com`.
 
 ---
 
