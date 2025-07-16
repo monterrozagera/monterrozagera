@@ -43,6 +43,7 @@ This repository (and associated projects) showcases real-world and simulated app
 |--------|-------------|
 | [`JSDeFr`](https://github.com/monterrozagera/JSDeFr) | the Javascript deobfuscation framework. |
 | [`AWS-PyScripts`](https://github.com/monterrozagera/AWS-PyScripts) | collection of Python scripts used to evaluate AWS infrastructure security. |
+| [`rmp4_meta`](https://github.com/monterrozagera/rmp4_meta) | a fast and lightweight Rust CLI tool for extracting metadata from .mp4 video files.  |
 | [`pv-chat`](https://github.com/monterrozagera/pvchat) | end-to-end encrypted chat server and client developed on python. |
 
 ---
