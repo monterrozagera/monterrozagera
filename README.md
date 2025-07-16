@@ -42,6 +42,7 @@ This repository (and associated projects) showcases real-world and simulated app
 | Project | Description |
 |--------|-------------|
 | [`JSDeFr`](https://github.com/monterrozagera/JSDeFr) | the Javascript deobfuscation framework. |
+| [`AWS-PyScripts`](https://github.com/monterrozagera/AWS-PyScripts | collection of Python scripts used to evaluate AWS infrastructure security. |
 | [`pv-chat`](https://github.com/monterrozagera/pvchat) | end-to-end encrypted chat server and client developed on python. |
 
 ---
